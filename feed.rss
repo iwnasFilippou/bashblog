@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>A blog about Software Ionian University</title><link>http://example.com/blog/index.html</link>
+<description>A blog about software and tech at Ionian University</description><language>en</language>
+<lastBuildDate>Sat, 16 Sep 2023 10:53:00 -0400</lastBuildDate>
+<pubDate>Sat, 16 Sep 2023 10:53:00 -0400</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Debian
+</title><description><![CDATA[
+
+<p>Οι λόγοι που επέλεξα τα Debian είναι:
+<ul>
+	<li>1. Η σταθερότητα που παρέχεται από την διανομή μέσου ενός συνεχή κύκλου ενημερώσεων και ελέγχου(testing) των εκδόσεων της, πράγμα που σημαίνει πως τα πακέτα λογισμικού που παρέχονται είναι σχολαστικά ελεγμένα πριν τοποθετηθούν στην stable έκδοση της διανομής. Για αυτό το λόγο τα Debian είναι μια εξαιρετικά καλή επιλογή για συστήματα server και mission-critical συστήματα.</li>
+<li>2. Long-Term Support: Τα Debian παρέχουν ένα διαρκές support (LTS) στους χρήστες της stable release το οποίο σημαίνει ότι γίνονται αρκετές ενημερώσεις ασφάλειας - διόρθωση λαθών (bug fixes). Αυτό είναι ζωτικής σημασίας για τους servers και τα εταιρικά περιβάλλοντα.</li>
+<li>3. Τα Debian είναι μια διανομή που συντηρείται και αναπτύζεται από την κοινώτητα τους με σταθερή έμφαση στην παροχή open source λογισμικού. Δεν ελέγχονται από κάποιον οργανισμό - εταιρεία πράγμα που δείχνει την διαφορά ανάμεσσα στο τι είναι προϊόν και τι είναι τεχνολογία που παρατηρούμε και σε αντίστοιχα video του μαθήματος.</li>
+<li>5. Τα Debian χρησιμοποιούν το APT (Advanced Package Tool), το οποίο είναι γνωστό για το reliability του και την ευκολία χρήσης του. Το APT απλοποιεί την εγκατάσταση, ενημέρωση και την διαχείρηση των εξαρτήσεων.</li>
+<li>6. Το Debian επιτρέπει υψηλό βαθμό customization. Οι χρήστες μπορούν να επιλέξουν από διαφορετικά περιβάλλοντα επιφάνειας εργασίας (π.χ. GNOME, KDE, Xfce) ή να επιλέξουν μια ελάχιστη εγκατάσταση και να δημιουργήσουν το σύστημά τους από την αρχή.</li></p>
+</ul>
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/debian.html</link>
+<guid>http://example.com/blog/./debian.html</guid>
+<dc:creator>p2017107</dc:creator>
+<pubDate>Sat, 16 Sep 2023 10:52:57 -0400</pubDate></item>
+</channel></rss>
